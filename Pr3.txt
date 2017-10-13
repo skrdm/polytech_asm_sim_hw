@@ -1,0 +1,8 @@
+﻿jmp prijok
+db 28
+db 1
+
+prijok:
+mov a, 28
+mov b, 1
+add a, b

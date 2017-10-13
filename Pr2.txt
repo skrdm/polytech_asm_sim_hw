@@ -1,0 +1,6 @@
+﻿mov a, 28
+mov b, 1
+
+mov c, a
+mov a, b
+mov b, c

@@ -1,0 +1,9 @@
+﻿mov a, 3
+mov b, a
+
+faktor:
+dec b
+mul b
+cmp b,1
+
+jne faktor
